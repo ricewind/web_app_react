@@ -1,0 +1,11 @@
+.Grid{
+    background-color: lightgrey;
+    height: 100%;
+}
+
+.imagenNew{
+    height: 140px;
+    width: 350px;
+    paddingTop: '56.25%';
+
+}
